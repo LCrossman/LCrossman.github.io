@@ -1,4 +1,7 @@
 
+![ferris_magnifying](ferris_magnifying.jpeg)
+
+
 ## What does microBioRust aim to do?
 This is a Rust crate package aimed at microbiology and optimised for functions that are much more common and needed in microbial genomics and bioinformatics research.
 
