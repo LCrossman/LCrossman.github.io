@@ -6,7 +6,7 @@
 This is a Rust crate package designed for microbial genomics and optimised for functions that are much more common and needed in microbial bioinformatics research.
 
 
-## What will *not* be covered by microBioRust?
+## What will **NOT** be covered by microBioRust?
 Workflows and pipelines for end-to-end bioinformatics solutions - microBioRust is a set of enabling tools.
 
 
