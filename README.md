@@ -1,5 +1,5 @@
 
-<img src="ferris_magnifying.jpeg" width="100" />
+<img src="{{ site.baseurl }}/ferris_magnifying.jpeg" width="100" />
 
 
 ## What does microBioRust aim to do?
