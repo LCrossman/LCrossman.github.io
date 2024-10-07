@@ -12,7 +12,7 @@ The idea is to bridge across fields.  other languages are out there such as biop
 
 
 ### Why would microbes have different requirements for bioinformatics, genetics and genomics studies?
-Bacteria are arguably the best studied microbes, their DNA and genes are quite different to ours. a microbiology specific parser would be optimised to handle features in these genomes.  the genomes are far shorter than humans, plants and animals and many thousands of them are sequenced, meaning processing thousands of small text files is a requirement.  we have quite a bit of functional information for the genes and many thousands of genomes are available and stored in alternative formats which all need parsing.  this is where rust can really shine compared to existing tools in other languages.  we do not want to duplicate where tools already exist, e.g. fasta file parsing in rust-bio.
+Bacteria are arguably the best studied microbes, their DNA and genes are quite different to ours. a microbiology specific parser would be optimised to handle features in these genomes.  the genomes are far shorter than humans, plants and animals and many thousands of them are sequenced, meaning processing thousands of small text files is a requirement.  we have quite a bit of functional information for the genes and the many genomes are available and stored in alternative formats which need parsing.  this is where rust can really shine compared to existing tools in other languages.  we do not want to duplicate where tools already exist, e.g. fasta file parsing in rust-bio.
 
 
 ## What is microbiology?
