@@ -1,5 +1,5 @@
 
-<img src="ferris_magnifying.jpeg" width="100" />
+<img src="ferris_magnifying.jpeg" width="150" />
 <h4>credit: Bing image creator</h4>
 
 ## What does microBioRust aim to do?
