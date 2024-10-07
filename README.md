@@ -1,5 +1,5 @@
 
-![ferris_magnifying](ferris_magnifying.jpeg)
+![ferris_magnifying](ferris_magnifying.jpeg | width=100)
 
 
 ## What does microBioRust aim to do?
