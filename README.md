@@ -1,5 +1,5 @@
 
-<img src="https://github.com/LCrossman/LCrossman.github.io/main/ferris_magnifying.jpeg" width="100"></img>
+<img src="https://github.com/LCrossman/LCrossman.github.io/blob/main/ferris_magnifying.jpeg" width="100"></img>
 
 
 ## What does microBioRust aim to do?
