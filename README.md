@@ -19,7 +19,7 @@ The idea behind this field of biology is an old one, back from when these small 
 Insects are **not** microbes, however, some definitions of microbiology would include the honey mushroom of Oregon, *Armillaria osytoyae* described as the largest/second largest organism on earth!
 
 ## What about pyo3 to create python-available functionality?
-Potentially, yes
+Python's power in ease-of-use and flexibility is excellent, it would be great to leverage rust interop to enhance accessibility to python users down the line.
 
 ## Are you looking for open source contributions?
 Definitely!
