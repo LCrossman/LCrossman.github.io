@@ -1,6 +1,6 @@
 
 <img src="ferris_magnifying.jpeg" width="100" />
-####credit: Bing image creator####
+#### credit: Bing image creator
 
 ## What does microBioRust aim to do?
 This is a Rust crate package designed for microbial genomics and optimised for functions that are much more common and needed in microbial bioinformatics research.
