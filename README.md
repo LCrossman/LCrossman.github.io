@@ -1,5 +1,5 @@
 
-![ferris_magnifying](ferris_magnifying.jpeg | width=100)
+<img src="https://github.com/LCrossman/LCrossman.github.io/ferris_magnifying.jpeg" width="100"></img>
 
 
 ## What does microBioRust aim to do?
